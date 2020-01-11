@@ -28,7 +28,7 @@ url_code = "https://github.com/Nickardson/shenzhen-solitaire"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{icon_pack = "fas", icon="globe-americas", name="Check it out", url = "http://tgratzer.com/shenzhen-solitaire/"}]
+links = [{icon_pack = "fas", icon="globe-americas", name="Check it out", url = "https://shenzhen-solitaire.tgratzer.com/"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
