@@ -24,3 +24,9 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+# https://docs.netlify.com/routing/redirects/
+[[redirects]]
+  from = "/shenzhen-solitaire"
+  to = "http://shenzhen-solitaire.tgratzer.com"
+  status = 301
