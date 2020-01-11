@@ -15,21 +15,34 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "globe-americas"
+  icon_pack = "fas"
+  name = "Platform"
+  description = "Azure, SQL, Firebase, Serverless&nbsp;Functions"
+
+[[feature]]
+  icon = "slack-hash"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
+  name = "Software"
+  description = "C# .NET, ASP.NET (+Core), Unity, Java, Python, Solution&nbsp;Architecturing"
+
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  icon = "html5"
+  icon_pack = "fab"
+  name = "Web"
+  description = "Angular, Vue, HTML5, CSS3, JavaScript, TypeScript"
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "cogs"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Process"
+  description = "Scrum, CI/CD Build and Release automation, Git, Azure&nbsp;Devops, Power&nbsp;BI"
 
 +++
+
+<style>
+.featurette-icon {
+  color: #525258;
+  /* text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); */
+}
+</style>
