@@ -2,7 +2,7 @@
 title = "Teaching Kids Python with Tracy the Turtle"
 subtitle = "Impressing kids can be a good strategy."
 summary = "Impressing kids can be a good strategy."
-date = 2019-12-30T00:00:00Z
+date = 2019-01-10T00:00:00Z
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
