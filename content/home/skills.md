@@ -30,7 +30,7 @@ subtitle = ""
   icon = "html5"
   icon_pack = "fab"
   name = "Web"
-  description = "Angular, Vue, HTML5, CSS3, JavaScript, TypeScript"
+  description = "Angular, Vue, React, HTML5, CSS3, JavaScript, TypeScript"
 
 [[feature]]
   icon = "cogs"

@@ -30,6 +30,7 @@ date_format = "Jan 2006"
   * Solution architecture, research and design
   * Development (C#, Web)
   * Deploying on-premise and cloud
+  * Data ETL and visualization
   """
 
 [[experience]]
@@ -39,6 +40,15 @@ date_format = "Jan 2006"
   location = "Central Florida"
   date_start = "2012-01-01"
   date_end = "2016-01-01"
-  description = """Mentored FRC students in programming and robotics."""
+  description = """
+  Responsibilities included:
+
+  * Developing autonomous and tele-operated robot control software
+  * Building
+  <img alt="Catapult" src="/img/icon/catapult.png" width="32px" style="display: inline;" />
+  <img alt="Basketball hoop" src="/img/icon/basketball.png" width="32px" style="display: inline;" />
+  <img alt="Frisbee disc" src="/img/icon/frisbee.png" width="32px" style="display: inline;" /> robots
+  * Mentoring FRC students in programming and robotics
+  """
 
 +++
