@@ -1,0 +1,12 @@
+{{ $cols := split .Inner "||" }}
+
+<div class="row">
+  <div class="col-12 col-md-4">
+    {{ index $cols 0 | markdownify }}
+  </div>
+  {{ range after 1 $cols }}
+  <div class="col-12 col-md-8">
+    {{ . | markdownify }}
+  </div>
+  {{ end }}
+</div>

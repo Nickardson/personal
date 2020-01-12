@@ -1,0 +1,15 @@
+# Font style metadata
+name = "Classic"
+
+# Optional Google font URL
+google_fonts = "Work Sans:400,700|Lora|Ubuntu Mono"
+
+# Font families
+heading_font = "Lora"
+body_font = "Work Sans"
+nav_font = "Work Sans"
+mono_font = "Ubuntu Mono"
+
+# Font size
+font_size = "20"
+font_size_small = "16"
