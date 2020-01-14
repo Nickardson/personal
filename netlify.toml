@@ -40,3 +40,18 @@
   from = "/TechIncremental"
   to = "https://tech-incremental.tgratzer.com"
   status = 301
+
+[[redirects]]
+  from = "/team1557-dots"
+  to = "https://team1557-dots.tgratzer.com/"
+  status = 301
+
+[[redirects]]
+  from = "/AgriCraft-Mutation-Graph"
+  to = "https://agricraft.tgratzer.com/"
+  status = 301
+
+[[redirects]]
+  from = "/Trolley-Problem-Stickers"
+  to = "https://trolley.tgratzer.com/"
+  status = 301
