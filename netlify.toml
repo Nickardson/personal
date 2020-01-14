@@ -28,5 +28,15 @@
 # https://docs.netlify.com/routing/redirects/
 [[redirects]]
   from = "/shenzhen-solitaire"
-  to = "http://shenzhen-solitaire.tgratzer.com"
+  to = "https://shenzhen-solitaire.tgratzer.com"
+  status = 301
+
+[[redirects]]
+  from = "/risk-of-rain-cheatsheet"
+  to = "https://risk-of-rain-cheatsheet.tgratzer.com"
+  status = 301
+
+[[redirects]]
+  from = "/TechIncremental"
+  to = "https://tech-incremental.tgratzer.com"
   status = 301
