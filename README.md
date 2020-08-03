@@ -8,3 +8,11 @@
 
 Leave a comment on this webzone and I'll send you pizza roll.
 Based on [Academic Kickstart](https://sourcethemes.com/academic/).
+
+## Development
+
+```bash
+./view.sh
+```
+
+Releases are managed through Netlify.
